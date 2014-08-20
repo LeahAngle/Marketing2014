@@ -27,7 +27,6 @@
           {.end}
           </a>
         {.end}
-        {@|like-button}{@|social-button-inline}
         </p>
 
         {.if postItemInjectCode}
@@ -36,7 +35,7 @@
         {.end}
 
       </div>
-      
+
     </article>
 
     {.comments?}<div id="comments-outer-wrapper">{@|comments}</div>{.end}
