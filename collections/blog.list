@@ -79,7 +79,6 @@
           {.end}
           </a>
         {.end}
-        {@|like-button}{@|social-button-inline}
       </p>
 
       {.if postItemInjectCode}
