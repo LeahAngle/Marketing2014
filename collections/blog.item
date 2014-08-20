@@ -28,7 +28,6 @@
           </a>
         {.end}
         </p>
-
         {.if postItemInjectCode}
         <div class="entry-injection">
           {postItemInjectCode}</div>
